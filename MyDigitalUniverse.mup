@@ -1,5 +1,28 @@
 {
-  "title": "Press Space or double-click to edit",
+  "title": "MyDigitalUniverse",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "attr": {
+    "style": {
+      "background": "#ffff00"
+    }
+  },
+  "ideas": {
+    "1": {
+      "title": #È0Ö$FD>I¸Ôˆ<`0T0TÂÎ$AsFL",
+      "id": 4,
+      "attr": {
+        "position": [
+          122.10940039245042,
+          91.28885438199984,
+          1
+        ],
+        "style": {
+          "background": "#00ff00"
+        }
+      },
+      "ideas": {}
+    }
+  },
+  "links": []
 }
